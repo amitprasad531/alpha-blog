@@ -25,6 +25,7 @@
     background-image: asset-url('bayArea.JPG');
     background-size: cover;
     height: 550px;
+    margin-bottom: 10px;
 }
 
 .jumbotron h1 {
@@ -41,7 +42,7 @@
 }
 
 .footer {
-    margin-top: -10px;
+    margin-top: 10px;
     padding-top: 10px;
     border-top: 1px solid #eaeaea;
     color: #777;
